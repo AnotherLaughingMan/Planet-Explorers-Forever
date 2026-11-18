@@ -1,11 +1,18 @@
-# planetexplorers
+# Planet Explorers Forever
 
-The Planet Explorers Source Project Terms of Use
+Independent community continuation of **Planet Explorers** (originally by Pathea Games).
 
-As of Oct 29th 2019, Pathea Games LLC has made the source code of Planet Explorers public. By downloading any portion of this project you agree to the terms in this document.
+This is a clean fork of the source released by Pathea Games LLC on 29 October 2019.  
+The goal of this project is to keep the game playable and improvable for hobbyist and non-commercial use after official support ended.
 
-All assets under this project remain property of Pathea Games. Direct resales of recompilation is prohibited. You are encouraged to use them in non-commercial or hobbyist projects. If you plan to use them in a commercial project, a written consent from Pathea Games is required. This applies to any modified and derivative versions of the assets.
+**Important terms (inherited from the original release):**
+- All assets remain the property of Pathea Games.
+- Direct resale of recompilations is prohibited.
+- Non-commercial / hobbyist use is encouraged.
+- Commercial use of assets or derivative versions requires written consent from Pathea Games.
+- Third-party plugins were intentionally excluded and are not included.
+- No official support is provided by Pathea Games.
 
-As for the code portion of the project, Pathea Games LLC does not provide technical support for such and is not responsible for any damage caused by use of the code.
+This repository has been deliberately separated from the original `pathea-games/planetexplorers` trunk so it can evolve independently.
 
-All third-party plugins are intentionally excluded to avoid copyright issues. Pathea Games will not provide the plugins.
+Original source: https://github.com/pathea-games/planetexplorers
