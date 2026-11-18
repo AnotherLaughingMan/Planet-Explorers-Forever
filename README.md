@@ -16,3 +16,13 @@ The goal of this project is to keep the game playable and improvable for hobbyis
 This repository has been deliberately separated from the original `pathea-games/planetexplorers` trunk so it can evolve independently.
 
 Original source: https://github.com/pathea-games/planetexplorers
+
+## Why this repository is independent
+
+This project was originally forked from [pathea-games/planetexplorers](https://github.com/pathea-games/planetexplorers) (the official 2019 source release).  
+It has since been detached from the GitHub fork network.
+
+The original repository has been inactive for years and official development ended.  
+Planet Explorers Forever is intended as a long-term, independent community continuation rather than a temporary fork that tracks upstream changes. Detaching removes the permanent “forked from” link so the project can evolve under its own name and direction.
+
+Full original history is preserved, and the terms of the 2019 source release still apply.
